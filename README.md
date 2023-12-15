@@ -1,6 +1,6 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect-0.herokuapp.com/)
 
-# Histogrammes de longueur de mots (chapitre 5.2)
+# Histogrammes de longueur de mots (chapitre 5)
 
 Avant de commencer. Consulter les instructions à suivre dans [instructions.md](instructions.md)
 
